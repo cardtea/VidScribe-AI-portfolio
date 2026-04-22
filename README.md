@@ -4,6 +4,8 @@
 
 VidScribe AI 是一款強大的影片分析工具，結合了 AI 語音轉錄與智慧摘要功能，能夠快速將 YouTube 或 Bilibili 影片轉換為結構化的文字報告。
 
+<img width="1884" height="905" alt="viddemo" src="https://github.com/user-attachments/assets/50dd7f24-fa46-4b3c-90a0-20751d86965e" />
+
 ---
 
 ## ✨ 主要特色
