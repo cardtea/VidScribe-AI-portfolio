@@ -1,0 +1,9 @@
+nicegui
+yt-dlp
+faster-whisper
+google-generativeai
+pystray
+Pillow
+psutil
+torch
+nvidia-ml-py

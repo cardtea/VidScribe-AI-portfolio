@@ -1,0 +1,24 @@
+{
+    "api_key": "",
+    "model": "gemini-2.5-flash",
+    "device": "cuda",
+    "output_dir": "downloads",
+    "prompt_file": "default.txt",
+    "transcription_profile": "accurate",
+    "transcription_profiles": {
+        "fast": {
+            "label": "Fast (Large-V3 + Float16 + Beam 3 + VAD)",
+            "model_size": "large-v3",
+            "compute_type": "float16",
+            "beam_size": 3,
+            "vad_filter": true
+        },
+        "accurate": {
+            "label": "Accurate (Large-V3 + Float16 + VAD)",
+            "model_size": "large-v3",
+            "compute_type": "float16",
+            "beam_size": 5,
+            "vad_filter": true
+        }
+    }
+}
